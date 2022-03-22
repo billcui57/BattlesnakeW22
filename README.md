@@ -1,6 +1,6 @@
 # A minimax [Battlesnake](https://play.battlesnake.com/) written in Typescript
 
-Utilized the minimax algorithm to forecast and predict future game states. Complimented with alpha beta pruning to grealy reduce search space for optimal game path.
+Utilized the minimax algorithm to forecast and predict future game states. Complimented with alpha beta pruning to greatly reduce search space for optimal game path.
 
 - Second place in RBC's AI Snake competition
 
